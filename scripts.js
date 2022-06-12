@@ -121,6 +121,8 @@ function button(){
 
 
 function order() {
-    let mensagem =`Olá, gostaria de fazer o pedido: \n- Prato: ${prato}\n- Bebida: ${bebida}\n- Sobremesa: ${sobremesa}\n Total: R\$${(valor1+valor2+valor3).toFixed(2)}`;
+    let nome = prompt('Qual seu nome?');
+    let endereco = prompt('Qual seu endereço?');
+    let mensagem =`Olá, gostaria de fazer o pedido: \n- Prato: ${prato}\n- Bebida: ${bebida}\n- Sobremesa: ${sobremesa}\n Total: R\$ ${(valor1+valor2+valor3).toFixed(2)}\n\nNome: ${nome}\nEndereço: ${endereco}`;
     window.open("http://wa.me/+5531999999999?text=" + encodeURIComponent(mensagem));
   }
