@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">This project is a special risotto fast-food restaurant that delivers your order in a few minutes. For this, the restaurant only works with a specific type of order: the Risotto+Drink+Dessert combo. <br>In my third project in the full-stack web development course at Driven Education I've made a restaurant orderer webpage, the page have mobile layout only. Fast Risotto project contains knowledges about how to select what the user wants on each list, and how to define the order and send this via WhatsApp to the restaurant. <br> In this project I've used the following technologies: HTML, CSS, JavaScript, Git and GitHub.</p>
+<p align="left">This project is a special risotto fast-food restaurant that delivers your order in a few minutes. For this, the restaurant only works with a specific type of order: the Risotto+Drink+Dessert combo. 🍲🥤🍰<br>In my third project in the full-stack web development course at Driven Education I've made a restaurant orderer webpage, the page have mobile layout only. Fast Risotto project contains knowledges about how to select what the user wants on each list, how to define the order and send this via WhatsApp to the restaurant and much more. <br> In this project I've used the following technologies: HTML, CSS, JavaScript, Git and GitHub.</p>
 
 <a href="https://leonardodesouzaf.github.io/projeto3-driveneats/">Deploy via GitHub Pages<a/>
 
