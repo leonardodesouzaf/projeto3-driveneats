@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">In my third project in the full-stack web development course at Driven Education I've made a restaurant orderer webpage, the page have layout mobile only. This project contains knowledges about how to select what the user wants in each list, and how to define the order and send this via WhatsApp to the restaurant. In this project I've used the following technologies: HTML, CSS, JavaScript, Git and GitHub.</p>
+<p align="left">In my third project in the full-stack web development course at Driven Education I've made a restaurant orderer webpage, the page have layout mobile only. Fast Risotto project contains knowledges about how to select what the user wants on each list, and how to define the order and send this via WhatsApp to the restaurant. In this project I've used the following technologies: HTML, CSS, JavaScript, Git and GitHub.</p>
 
 ###
 
